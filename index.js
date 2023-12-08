@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('YA SABIA QUE ERES GAY🤨')
+    alert('Sabia que dirias que si ❤️')
 });
 
 const noBtn = document.querySelector('#noBtn');
